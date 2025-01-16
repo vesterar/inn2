@@ -1,3 +1,4 @@
+# Oppgave 2.4 a og b for å skrive ut hovedstad og hovedstadsbefolkning i valgt land
 data = {"Norge": ["Oslo", 0.634],
         "England": ["London", 8.982],
         "Frankrike": ["Paris", 2.161],
