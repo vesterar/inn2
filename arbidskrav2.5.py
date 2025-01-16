@@ -1,4 +1,4 @@
-# Beregne omkrtest og areal av figur oppgave 5
+# Beregne omkrtest og areal av figur oppgave 2.5
 
 import math
 
