@@ -1,4 +1,4 @@
-# Beregne omkrtest og areal av figur oppgave 2.5
+# Beregne omkrets og areal av figur oppgave 2.5
 
 import math
 
@@ -18,7 +18,7 @@ def kalkuler_areal_og_omkrtest(a, b):
     # Total areal
     total_areal = areal_trekant + areal_halv_sirker
 
-    # Ytre omktest av figur
+    # Ytre omkrets av figur
     omkrets_trekant = a + b + c
     omkrtes_halvsirkel = (math.pi * 2 * a) / 2
     total_omkrets = omkrets_trekant + omkrtes_halvsirkel - c
